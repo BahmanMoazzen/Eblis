@@ -532,39 +532,43 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1833388878020557082, guid: da7653545e3aa3745a0a08aad9f3bdc3, type: 3}
       propertyPath: _AllSettings.Array.size
-      value: 4
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 1833388878020557082, guid: da7653545e3aa3745a0a08aad9f3bdc3, type: 3}
-      propertyPath: _AllSettings.Array.data[3].SceneName
-      value: SCN04_END
+      propertyPath: _AllSettings.Array.data[4].SceneName
+      value: SCN02_1_Corridor_Night
       objectReference: {fileID: 0}
     - target: {fileID: 1833388878020557082, guid: da7653545e3aa3745a0a08aad9f3bdc3, type: 3}
-      propertyPath: _AllSettings.Array.data[0].SceneCount
-      value: 2
+      propertyPath: _AllSettings.Array.data[5].SceneName
+      value: SCN02_1_Corridor_Night
       objectReference: {fileID: 0}
     - target: {fileID: 1833388878020557082, guid: da7653545e3aa3745a0a08aad9f3bdc3, type: 3}
-      propertyPath: _AllSettings.Array.data[2].SceneCount
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1833388878020557082, guid: da7653545e3aa3745a0a08aad9f3bdc3, type: 3}
-      propertyPath: _AllSettings.Array.data[3].SceneCount
-      value: 1
+      propertyPath: _AllSettings.Array.data[6].SceneName
+      value: SCN04_Kitchen_Night
       objectReference: {fileID: 0}
     - target: {fileID: 1833388878020557082, guid: da7653545e3aa3745a0a08aad9f3bdc3, type: 3}
       propertyPath: _AllSettings.Array.data[4].SceneCount
-      value: 3
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1833388878020557082, guid: da7653545e3aa3745a0a08aad9f3bdc3, type: 3}
       propertyPath: _AllSettings.Array.data[5].SceneCount
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 1833388878020557082, guid: da7653545e3aa3745a0a08aad9f3bdc3, type: 3}
-      propertyPath: _AllSettings.Array.data[2].RelationType
       value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1833388878020557082, guid: da7653545e3aa3745a0a08aad9f3bdc3, type: 3}
-      propertyPath: _AllSettings.Array.data[3].RelationType
+      propertyPath: _AllSettings.Array.data[6].SceneCount
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1833388878020557082, guid: da7653545e3aa3745a0a08aad9f3bdc3, type: 3}
+      propertyPath: _AllSettings.Array.data[3].RelationType
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1833388878020557082, guid: da7653545e3aa3745a0a08aad9f3bdc3, type: 3}
+      propertyPath: _AllSettings.Array.data[4].RelationType
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1833388878020557082, guid: da7653545e3aa3745a0a08aad9f3bdc3, type: 3}
+      propertyPath: _AllSettings.Array.data[5].RelationType
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4531125330470814069, guid: da7653545e3aa3745a0a08aad9f3bdc3, type: 3}
       propertyPath: m_Pivot.x

@@ -649,25 +649,16 @@ MonoBehaviour:
   _AllSettings:
   - SceneName: SCN00_TitleScreen
     RelationType: 0
-    SceneCount: 4
+    SceneCount: 2
   - SceneName: SCN00_TitleScreen
     RelationType: 1
     SceneCount: 3
-  - SceneName: SCN00_TitleScreen
-    RelationType: 4
-    SceneCount: 1
   - SceneName: SCN00_TitleScreen
     RelationType: 2
-    SceneCount: 5
-  - SceneName: SCN04_END
-    RelationType: 1
     SceneCount: 1
   - SceneName: SCN04_END
     RelationType: 1
-    SceneCount: 2
-  - SceneName: SCN04_END
-    RelationType: 1
-    SceneCount: 3
+    SceneCount: 1
   _subject: "\u0644\u06CC\u0646\u06A9 \u0628\u0627\u0632\u06CC \u0647\u0632\u0627\u0631\u062A\u0648"
   _text: "\u0628\u0627\u0632\u06CC \u0647\u0632\u0627\u0631\u062A\u0648 \u0631\u0648
     \u0628\u0627\u0632\u06CC \u06A9\u0646:   https://myket.ir/app/{0}"
