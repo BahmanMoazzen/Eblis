@@ -1,0 +1,74 @@
+# Exported from Fuse 1.3.0
+
+newmtl Bottom
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Sagmagas_Bottom_diffuse.png
+map_Ks Sagmagas_Bottom_specular.png
+bump Sagmagas_Bottom_normal.png
+map_Ns Sagmagas_Bottom_gloss.png
+
+newmtl Hair
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Sagmagas_Hair_diffuse.png
+map_Ks Sagmagas_Hair_specular.png
+bump Sagmagas_Hair_normal.png
+map_Ns Sagmagas_Hair_gloss.png
+
+newmtl Top
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Sagmagas_Top_diffuse.png
+map_Ks Sagmagas_Top_specular.png
+bump Sagmagas_Top_normal.png
+map_Ns Sagmagas_Top_gloss.png
+
+newmtl Shoes
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Sagmagas_Shoes_diffuse.png
+map_Ks Sagmagas_Shoes_specular.png
+bump Sagmagas_Shoes_normal.png
+map_Ns Sagmagas_Shoes_gloss.png
+
+newmtl Hat
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Sagmagas_Hat_diffuse.png
+map_Ks Sagmagas_Hat_specular.png
+bump Sagmagas_Hat_normal.png
+map_Ns Sagmagas_Hat_gloss.png
+
+newmtl Body
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Sagmagas_Body_diffuse.png
+map_Ks Sagmagas_Body_specular.png
+bump Sagmagas_Body_normal.png
+map_Ns Sagmagas_Body_gloss.png
+
