@@ -13,10 +13,10 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: Helen Game Factory
-  productName: "\u0627\u0628\u0644\u06CC\u0633 (\u062F\u0645\u0648)"
+  productName: "\u0627\u0628\u0644\u06CC\u0633"
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
-  m_SplashScreenBackgroundColor: {r: 0.30980393, g: 0, b: 0.043137256, a: 1}
+  m_SplashScreenBackgroundColor: {r: 0.6415094, g: 0.015129937, b: 0.100545235, a: 1}
   m_ShowUnitySplashScreen: 1
   m_ShowUnitySplashLogo: 1
   m_SplashScreenOverlayOpacity: 1
@@ -158,9 +158,10 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: ir.helengamefactory.eblisdemo
+    Android: ir.helengamefactory.eblis
+    Standalone: ir.helengamefactory.eblis
   buildNumber:
-    Standalone: 0
+    Standalone: 2
     iPhone: 0
     tvOS: 0
   overrideDefaultApplicationIdentifier: 1
@@ -250,7 +251,7 @@ PlayerSettings:
   AndroidTargetArchitectures: 3
   AndroidTargetDevices: 1
   AndroidSplashScreenScale: 0
-  androidSplashScreen: {fileID: 0}
+  androidSplashScreen: {fileID: 2800000, guid: d17151f2e70323846a5c837988877503, type: 3}
   AndroidKeystoreName: '{dedicated}: bmoazzen.jks'
   AndroidKeyaliasName: b.moazzen
   AndroidBuildApkPerCpuArchitecture: 0
