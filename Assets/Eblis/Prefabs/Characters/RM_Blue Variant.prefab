@@ -197,7 +197,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f434827ef438ef34897f94067dced7c5, type: 3}
       propertyPath: m_Name
-      value: RM_Blue
+      value: RM_Blue Variant
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f434827ef438ef34897f94067dced7c5, type: 3}
       propertyPath: m_Layer
@@ -506,11 +506,11 @@ MonoBehaviour:
   wallLayer: Default
   wallDistance: 0.5
   wallReductionOnlyParameter: 1
-  walkSound: {fileID: 0}
-  runSound: {fileID: 0}
+  walkSound: {fileID: 8300000, guid: 8e001351cd7065543a068386cde4c960, type: 3}
+  runSound: {fileID: 8300000, guid: 505a015d5525e0442ae4a62d5bac304d, type: 3}
   textScrollClip: {fileID: 0}
   soundChild: {fileID: 892473550}
-  speechAudioSource: {fileID: 0}
+  speechAudioSource: {fileID: 226908991}
   headIKTurnFactor: 1
   bodyIKTurnFactor: 0
   eyesIKTurnFactor: 1

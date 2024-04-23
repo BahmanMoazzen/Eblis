@@ -514,11 +514,11 @@ MonoBehaviour:
   wallLayer: Default
   wallDistance: 0.5
   wallReductionOnlyParameter: 1
-  walkSound: {fileID: 8300000, guid: baf90d315c62c1648ba2901ff92db065, type: 3}
-  runSound: {fileID: 8300000, guid: 44737e645aa918043b3d8cab5d1511bc, type: 3}
+  walkSound: {fileID: 8300000, guid: 8e001351cd7065543a068386cde4c960, type: 3}
+  runSound: {fileID: 8300000, guid: 505a015d5525e0442ae4a62d5bac304d, type: 3}
   textScrollClip: {fileID: 0}
   soundChild: {fileID: 798242699605816219}
-  speechAudioSource: {fileID: 0}
+  speechAudioSource: {fileID: 798242701251167683}
   headIKTurnFactor: 1
   bodyIKTurnFactor: 0
   eyesIKTurnFactor: 1

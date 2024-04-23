@@ -530,6 +530,42 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1833388878020557082, guid: da7653545e3aa3745a0a08aad9f3bdc3, type: 3}
+      propertyPath: _AllSettings.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1833388878020557082, guid: da7653545e3aa3745a0a08aad9f3bdc3, type: 3}
+      propertyPath: _AllSettings.Array.data[3].SceneName
+      value: SCN04_END
+      objectReference: {fileID: 0}
+    - target: {fileID: 1833388878020557082, guid: da7653545e3aa3745a0a08aad9f3bdc3, type: 3}
+      propertyPath: _AllSettings.Array.data[0].SceneCount
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1833388878020557082, guid: da7653545e3aa3745a0a08aad9f3bdc3, type: 3}
+      propertyPath: _AllSettings.Array.data[2].SceneCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1833388878020557082, guid: da7653545e3aa3745a0a08aad9f3bdc3, type: 3}
+      propertyPath: _AllSettings.Array.data[3].SceneCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1833388878020557082, guid: da7653545e3aa3745a0a08aad9f3bdc3, type: 3}
+      propertyPath: _AllSettings.Array.data[4].SceneCount
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1833388878020557082, guid: da7653545e3aa3745a0a08aad9f3bdc3, type: 3}
+      propertyPath: _AllSettings.Array.data[5].SceneCount
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1833388878020557082, guid: da7653545e3aa3745a0a08aad9f3bdc3, type: 3}
+      propertyPath: _AllSettings.Array.data[2].RelationType
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1833388878020557082, guid: da7653545e3aa3745a0a08aad9f3bdc3, type: 3}
+      propertyPath: _AllSettings.Array.data[3].RelationType
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4531125330470814069, guid: da7653545e3aa3745a0a08aad9f3bdc3, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -693,7 +729,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "(\u062F\u0645\u0648)"
+  m_Text: '
+
+'
 --- !u!114 &923674564
 MonoBehaviour:
   m_ObjectHideFlags: 0
